@@ -1,0 +1,2 @@
+test@gmail.com,lukasz,kwasniewicz,85,5,GRADED
+adamadamski@gmail.com,adam,adamski,51,3,GRADED
